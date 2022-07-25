@@ -1,4 +1,4 @@
-# @strapi/provider-upload-ovh
+# strapi-provider-upload-ovh
 
 ## Resources
 
@@ -15,10 +15,10 @@
 
 ```bash
 # using yarn
-yarn add @strapi/provider-upload-ovh
+yarn add strapi-provider-upload-ovh
 
 # using npm
-npm install @strapi/provider-upload-ovh --save
+npm install strapi-provider-upload-ovh --save
 ```
 
 ### Provider Configuration
