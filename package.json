@@ -1,5 +1,5 @@
 {
-  "name": "@strapi/provider-upload-ovh",
+  "name": "strapi-provider-upload-ovh",
   "version": "4.2.3",
   "description": "OVH provider for strapi upload",
   "keywords": [
